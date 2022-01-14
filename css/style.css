@@ -1,3 +1,8 @@
+body{
+    font: 20px arial ;
+}
+
+
 .navbar {
     background-color: #ACB2B2;
 }
@@ -5,5 +10,9 @@
     background-color: rgba(98, 13, 235, 0.637);
 }
 .margin{
-    padding-top: 30px;
+    
+    padding-bottom: 30px;
+}
+.texto-somos{
+    color: cornsilk;
 }
